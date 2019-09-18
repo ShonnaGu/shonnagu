@@ -3,7 +3,7 @@ layout: post
 title: Shonna Gu's first blog! Amazing~
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi, I'm Shonna and it's my first blog here. I will update more infomation about me. Thank you~
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
